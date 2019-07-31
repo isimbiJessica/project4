@@ -32,3 +32,34 @@
     color: white;
 
 }
+#head1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
+    font-size: 56px;
+}
+#para2{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+   
+    
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+#une{
+    margin-top: -80px;
+}
+#deux{
+    margin-top: -80px;
+}
+#trois{
+    margin-top: -80px;
+}
+#quatre{
+    margin-top: -80px;
+}
