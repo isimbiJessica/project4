@@ -20,7 +20,15 @@
 #head{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
-    font-size: 106px;
+    font-size: 96px;
     margin-top: 76px;
     color: white;
+}
+#para1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
+    font-size: 56px;
+    margin-top: 76px;
+    color: white;
+
 }
