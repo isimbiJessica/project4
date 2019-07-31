@@ -1,0 +1,26 @@
+.start{
+    background-image: url("https://image.shutterstock.com/image-photo/cut-into-slices-delicious-fresh-260nw-514537924.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+#second{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+    font-size: 24px;
+    background-color: black;
+    text-align: center;
+    margin-top: 30px;
+    padding: 30px
+
+    
+}
+#head{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
+    font-size: 106px;
+    margin-top: 76px;
+    color: white;
+}
