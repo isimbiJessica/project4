@@ -49,17 +49,46 @@
     justify-content: space-around;
     margin-right: 50px;
     margin-left: 50px;
+    font-size: 20px;
+
 
 }
 #une{
-    margin-top: -80px;
+    margin-top: -100px;
+    color: white;
+    font-size: 20px;
+
 }
 #deux{
-    margin-top: -80px;
+    margin-top: -100px;
+    color: white;
+    font-size: 20px;
+
 }
 #trois{
-    margin-top: -80px;
+    margin-top: -100px;
+    color: white;
+    font-size: 20px;
+
 }
 #quatre{
-    margin-top: -80px;
+    margin-top: -100px;
+    color: white;
+    font-size: 20px;
+
 }
+.row1{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 20px;
+
+
+}
+.row2{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 20px;
