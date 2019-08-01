@@ -101,9 +101,10 @@ img:hover{
 button{
     padding: 5px;
     margin: 5px;
-    background-color: aqua;
+    background-color:green;
     border: none;
-    width: 10%;
+    width: 15%;
+    height: 60px;
     border-radius: 10%;
     position: relative;
     top: 20px;
@@ -111,6 +112,8 @@ button{
 }
 button:hover{
     background-color: black;
+    color: white;
+
 }
 button a{
     text-decoration: none;
@@ -119,7 +122,7 @@ button a{
 }
 button a:hover{
     color: white;
-    text-decoration: none
+    text-decoration: none;
 }
 input{
     position: relative;
@@ -131,7 +134,7 @@ label{
     top: 6px;
     width: 90%;
     float: left;
-    font-size: 25px;
+    font-size: 45px;
     width: 100%
 
 }
