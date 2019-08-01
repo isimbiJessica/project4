@@ -126,3 +126,23 @@ input{
     top: 6px;
     width: 90%;
 }
+label{
+    position: relative;
+    top: 6px;
+    width: 90%;
+    float: left;
+    font-size: 25px;
+    width: 100%
+
+}
+select{
+    width: 90%;
+    position: relative;
+    top: 6px
+}
+col-md-4{
+    position: relative;
+    top: 30px;
+    right: 100px
+
+}
