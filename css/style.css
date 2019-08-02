@@ -48,7 +48,7 @@ ul {
 #para2{
     
     font-family: 'Times New Roman', Times, serif;
-    font-size: 26px;
+    font-size: 18px;
    
     
 }
@@ -167,4 +167,19 @@ col-md-4{
 }
 .kina{
     background-color: azure;
+}
+.start1{
+    background-image: url("https://image.shutterstock.com/image-photo/cut-into-slices-delicious-fresh-260nw-514537924.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+#head12{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
+    font-size: 76px;
+    margin-top: -46px;
+    color: white;
+
+
 }
