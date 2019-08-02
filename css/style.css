@@ -9,13 +9,13 @@ ul {
     margin: 0;
     padding: 20PX;
     width: 200px;
-    font-size: 15PX
+    font-size: 20PX
   }
   
   li a {
     display: block;
     color: white;
-    padding: 16px 16px;
+    padding: 20px 20px;
     text-decoration: none;
   }
   
@@ -24,9 +24,12 @@ ul {
     color: white;
   }
   
-  li a:hover:not(.active) {
+  li a:hover {
     background-color: #555;
     color: white;
+    transform:scale(1.1);
+    font-size: 20px;
+
   }
     
 #para1{
@@ -45,7 +48,7 @@ ul {
 #para2{
     
     font-family: 'Times New Roman', Times, serif;
-    font-size: 46px;
+    font-size: 26px;
    
     
 }
@@ -153,4 +156,15 @@ col-md-4{
     top: 30px;
     right: 100px
 
+}
+#head{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,;
+    font-size: 86px;
+    margin-top: -76px;
+    color: white;
+
+}
+.kina{
+    background-color: azure;
 }
