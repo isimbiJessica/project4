@@ -19,6 +19,7 @@
                     <div class="row">
                         <div class="col-md-8">
                     <form id="form">
+                        <div id="form1">
                      Your Name: 
                      <input type="text" name="Name">
                      <br>
@@ -44,38 +45,41 @@
                      <label for="crust">Crust</label>
                      <select id="cruts">
                              <option value="none"></option>
-                             <option value="one2">Thin</option>
-                             <option value="two2">Thick</option>
-                             <option value="three2">Flatbread</option>
-                             <option value="four2">Focaccia</option>
-                             <option value="five2">Custom</option>
+                             <option value="Thin"></option>
+                             <option value="Thick"></option>
+                             <option value="Flatbread"></option>
+                             <option value="Focaccia"></option>
+                             <option value="Custom"></option>
                      </select>
                      <label for="top">Toppings</label> <br>
                      <select id="toppings">
                          <option value="none"></option>
-                             <option value="one3">Sausage and pineapple</option>
-                             <option value="two3">Buffalo chicken and blue cheese</option>
-                             <option value="three3">Gorgonzola, artichoke hearts, prosciutto, red onion, and tomato</option>
-                             <option value="four3">Figs, prosciutto, and caramelized onions</option>
-                             <option value="five3">Roasted Brussels sprouts and bacon or pancetta</option>
+                             <option value="Sausage and pineapple"></option>
+                             <option value="Buffalo chicken and blue cheese"></option>
+                             <option value="Gorgonzola, artichoke hearts, prosciutto, red onion, and tomato"></option>
+                             <option value="Figs, prosciutto, and caramelized onions"></option>
+                             <option value="Roasted Brussels sprouts and bacon or pancetta"></option>
                      </select>
+                    </div>
                      <button>Another pizza</button>
                      <input type="submit" value="Order" id="submit" style="background-color:green; width: 10%;
                      border-radius: 10%;position: relative;top: 20px; left: 10px; bottom: -5px; padding: 5px; margin: 5px;height: 60px; ">
+                    
                     </form>
                     </div>
                     <div class="col-md-4">
                         <h4>YOUR PIZZA ORDER IS:</h4>
                         <P>Size: <span id="first"></span></P>
                         <P>Toppings: <span id="fourth"></span></P>
+                        <P>Crust: <span id="first1"></span></P>
                         <p>Total price: <span id="price"></span></p>
                     </div>
                     </div>
                 </div>
             </div> 
         </div>
-            <script src="js/jquery-3.4.1.slim.js"></script>
-            <script src="js/index.js"></script>
+            <script src="js/jquery-3.4.1.js"></script>
+            <script src="js/script.js"></script>
     
 </body>
 </html>
